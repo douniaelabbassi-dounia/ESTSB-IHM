@@ -5,6 +5,9 @@ WordPress est un Système de gestion de contenu (SGC) gratuit et open source. Il
 
 WordPress offre une interface simple et personnalisable pour administrer les sites Internet et publier des contenus, en s'installant directement sur un ordinateur. Le site Internet peut être hébergé sur un serveur Web personnel ou via un service en ligne, puis mis à jour facilement depuis l'ordinateur. La gestion du site Internet peut être partagée entre différents utilisateurs, dont les droits peuvent être restreints en fonction du profil : administrateur, éditeur, auteur, contributeur, et abonné.
 
+## Plugin elementor :
+Elementor est un constructeur de page pour WordPress qui se présente sous la forme d’un plugin. Il permet de concevoir des pages complexes sur WordPress sans coder, grâce à l’utilisation de modèles de page tout prêts ou en partant de zéro, à ajouter en glisser déposer dans votre contenu. Tous les changements sont visibles en temps réel.
+
 ![image](https://user-images.githubusercontent.com/73197564/112719481-7cfeb400-8ef9-11eb-9563-cd2cd13333d1.png)
 
 ## A propos de nous
