@@ -1,5 +1,5 @@
 # ESTSB-IHM
-est un projet avec wordpress
+
 ## Qu'est ce que c'est Wordpress ?  
 WordPress est un Système de gestion de contenu (SGC) gratuit et open source. Il permet de créer des sites Internet complets et variés, reposant sur une base de données MySQL. WordPress est le leader incontesté des SGC, il propulse un très grand nombre de blogs et de sites de e-commerce.
 
