@@ -8,6 +8,7 @@ WordPress offre une interface simple et personnalisable pour administrer les sit
 ## Plugin elementor :
 Elementor est un constructeur de page pour WordPress qui se présente sous la forme d’un plugin. Il permet de concevoir des pages complexes sur WordPress sans coder, grâce à l’utilisation de modèles de page tout prêts ou en partant de zéro, à ajouter en glisser déposer dans votre contenu. Tous les changements sont visibles en temps réel.
 
+## Page d'accueil
 ![image](https://user-images.githubusercontent.com/73197564/112719481-7cfeb400-8ef9-11eb-9563-cd2cd13333d1.png)
 
 ## A propos de nous
